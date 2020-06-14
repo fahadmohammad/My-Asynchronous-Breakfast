@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New folder (4)\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj": {}
+    "E:\\MyRepos\\My-Asynchronous-Breakfast\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj": {}
   },
   "projects": {
-    "E:\\New folder (4)\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj": {
+    "E:\\MyRepos\\My-Asynchronous-Breakfast\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New folder (4)\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj",
+        "projectUniqueName": "E:\\MyRepos\\My-Asynchronous-Breakfast\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj",
         "projectName": "AsynchronousProgramming",
-        "projectPath": "E:\\New folder (4)\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj",
+        "projectPath": "E:\\MyRepos\\My-Asynchronous-Breakfast\\AsynchronousProgramming\\AsynchronousProgramming\\AsynchronousProgramming.csproj",
         "packagesPath": "C:\\Users\\Fahad\\.nuget\\packages\\",
-        "outputPath": "E:\\New folder (4)\\AsynchronousProgramming\\AsynchronousProgramming\\obj\\",
+        "outputPath": "E:\\MyRepos\\My-Asynchronous-Breakfast\\AsynchronousProgramming\\AsynchronousProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
