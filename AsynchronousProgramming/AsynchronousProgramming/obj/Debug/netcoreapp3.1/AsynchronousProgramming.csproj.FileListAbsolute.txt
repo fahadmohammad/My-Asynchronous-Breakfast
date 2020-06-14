@@ -1,0 +1,13 @@
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.exe
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.deps.json
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.runtimeconfig.json
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.runtimeconfig.dev.json
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.dll
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp3.1\AsynchronousProgramming.pdb
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.csprojAssemblyReference.cache
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.AssemblyInfoInputs.cache
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.AssemblyInfo.cs
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.dll
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.pdb
+E:\MyRepos\My-Asynchronous-Breakfast\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp3.1\AsynchronousProgramming.genruntimeconfig.cache
