@@ -12,6 +12,37 @@ namespace AsynchronousProgramming
 
             var egg = FryEggAsync(2);
             var bacon = FryBaconAsync(2);
+            var toastWithButterAndJam = MakeToastWithButterAndJamAsync(2);
+        }
+
+        private static async Task<Toast> MakeToastWithButterAndJamAsync(int number)
+        {
+            var toast = await ToastBreadAsync(number);
+            ApplyButter(toast);
+            ApplyJam(toast);
+
+            return new Toast();
+        }
+
+        private static void ApplyJam(Toast toast) => 
+            Console.WriteLine("Applying Jam....");
+
+
+        private static void ApplyButter(Toast toast) => 
+            Console.WriteLine("Applying Butter...");
+        
+
+        private static async Task<Toast> ToastBreadAsync(int slices)
+        {
+            for (int slice = 0; slice < slices; slice++)
+            {
+                Console.WriteLine("Putting a slice of bread in the toaster");
+            }
+            Console.WriteLine("Start toasting...");
+            await Task.Delay(3000);
+            Console.WriteLine("Remove toast from toaster");
+
+            return new Toast();
         }
 
         private static async Task<Bacon> FryBaconAsync(int slices)
@@ -48,6 +79,10 @@ namespace AsynchronousProgramming
 
             return new Coffee();
         }
+    }
+
+    internal class Toast
+    {
     }
 
     internal class Bacon
