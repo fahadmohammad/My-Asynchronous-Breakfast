@@ -14,9 +14,20 @@ namespace AsynchronousProgramming
             var bacon = FryBaconAsync(2);
         }
 
-        private static Bacon FryBaconAsync(int slices)
+        private static async Task<Bacon> FryBaconAsync(int slices)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"Putting {slices} of bacon on the pan...");
+            Console.WriteLine("Cooking first side of bacon");
+            await Task.Delay(3000);
+            for(int slice = 0; slice < slices; slice++)
+            {
+                Console.WriteLine("flipping a slice of a bacon");
+            }
+            Console.WriteLine("Cooking second side of bacon");
+            await Task.Delay(3000);
+            Console.WriteLine("Bacons are ready");
+
+            return new Bacon();
         }
 
         private static async Task<Egg> FryEggAsync(int numnberOfEgg)
